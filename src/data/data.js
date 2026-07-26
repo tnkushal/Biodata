@@ -58,16 +58,6 @@ const profile = {
 
   skills: [
 
-    "Java",
-
-    "Python",
-
-    "C",
-
-    "HTML",
-
-    "CSS",
-
     "JavaScript",
 
     "React",
